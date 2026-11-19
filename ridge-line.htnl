@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy — Ridgeline</title>
+<style>
+  body{max-width:760px;margin:40px auto;padding:0 20px;font:16px/1.65 -apple-system,Segoe UI,Roboto,sans-serif;color:#1a1a1a}
+  h1{font-size:26px} h2{font-size:19px;margin-top:32px} a{color:#1a66ff}
+  .muted{color:#666;font-size:14px}
+</style>
+</head>
+<body>
+<h1>Privacy Policy — Ridgeline</h1>
+<p class="muted">Last updated: 19 November 2026</p>
+
+<p>This Privacy Policy explains how Nexsimp LLP ("we", "us", "our") handles information in the mobile game <strong>Ridgeline</strong> (package <code>com.kursor.ridgeline</code>, the "Game"), published under our Kursor studio brand. By playing the Game, you agree to the practices described here.</p>
+
+<h2>1. Information We Collect</h2>
+<p>We do not ask you to create an account, and we do not collect your name, email address or contact details within the Game.</p>
+<p>The Game uses third-party services that may collect limited information automatically to provide advertising and purchases:</p>
+<ul>
+<li><strong>Advertising identifiers</strong> and related device information (for example a mobile advertising ID, device type and IP-based approximate location) may be collected by our advertising partner to show and measure ads.</li>
+<li><strong>Purchase information</strong> needed to process and validate in-app purchases and subscriptions (a purchase token, product identifier and an anonymous app user ID). We do not receive or store your payment card details; these are handled by the app store.</li>
+<li><strong>Basic technical data</strong> such as device model, operating system version and diagnostic information, used by these services to work correctly.</li>
+</ul>
+
+<h2>2. Device Sensors</h2>
+<p>If you choose tilt steering, the Game reads your device's motion sensors to steer the bike. This data is used only on your device while you play and is never stored or sent anywhere.</p>
+
+<h2>3. Local Game Data</h2>
+<p>Your progress (coins, bikes, upgrades, missions, settings and best distances) is stored <strong>on your device</strong>. It is not uploaded to us. Uninstalling the Game or clearing its data may delete this progress. Purchases of Remove Ads, the Starter Pack and the Pro Pass can be restored from the store.</p>
+
+<h2>4. Third-Party Services</h2>
+<ul>
+<li><strong>Google AdMob</strong> (advertising) — <a href="https://policies.google.com/privacy">policies.google.com/privacy</a></li>
+<li><strong>Google Play Billing</strong> (purchases) — <a href="https://policies.google.com/privacy">policies.google.com/privacy</a></li>
+<li><strong>RevenueCat</strong> (purchase validation) — <a href="https://www.revenuecat.com/privacy">revenuecat.com/privacy</a></li>
+</ul>
+<p>These providers process data under their own privacy policies.</p>
+
+<h2>5. Advertising and Your Choices</h2>
+<p>The Game shows ads, including optional rewarded videos. Where required by law, you are asked for consent before personalised ads are shown, and you can change that choice at any time from the Privacy option in the Game's Controls screen when it is available in your region. You can also reset or delete your advertising ID, or opt out of ad personalisation, in your device settings. Buying Remove Ads stops the ads shown between runs; rewarded videos remain optional.</p>
+
+<h2>6. Children</h2>
+<p>The Game is not directed at children under 13, and we do not knowingly collect personal information from children. If you believe a child has provided personal information, contact us and we will take appropriate steps.</p>
+
+<h2>7. Data Retention and Deletion</h2>
+<p>We do not keep personal data on our own servers. Data processed by third-party services is retained under their policies. To request deletion of purchase-related data linked to your anonymous app user ID, email us at the address below. Purchase records may be retained as required for accounting, tax and legal purposes.</p>
+
+<h2>8. Security</h2>
+<p>We take reasonable measures to protect information handled through the Game. No method of transmission or storage is completely secure, and we cannot guarantee absolute security.</p>
+
+<h2>9. Changes to This Policy</h2>
+<p>We may update this Privacy Policy from time to time. Changes will be posted on this page with a new "Last updated" date.</p>
+
+<h2>10. Contact Us</h2>
+<p><strong>Nexsimp LLP</strong> (Kursor)<br>
+Email: <a href="mailto:support@nexsimp.com">support@nexsimp.com</a></p>
+</body>
+</html>
